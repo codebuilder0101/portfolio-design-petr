@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "width": 787,
+    "height": 984,
+    "color": "#ccb174",
+    "imageWidths": [
+      160,
+      480,
+      768,
+      787
+    ]
+  },
+  "avatar": {
+    "width": 520,
+    "height": 520,
+    "color": "#c1a686",
+    "imageWidths": [
+      160,
+      480,
+      520
+    ]
+  },
+  "about": {
+    "width": 875,
+    "height": 1094,
+    "color": "#574942",
+    "imageWidths": [
+      160,
+      480,
+      768,
+      875
+    ]
+  }
+}

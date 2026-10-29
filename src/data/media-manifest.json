@@ -1,0 +1,723 @@
+{
+  "31": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#453b2d",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "32": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#9e6d50",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "33": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#546281",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "34": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#998da6",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "35": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#5682b0",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "36": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#e6cb36",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "37": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#797585",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "38": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#4f748c",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "39": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#23484c",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "40": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#7d7258",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "41": {
+    "width": 1672,
+    "height": 941,
+    "color": "#a6a19e",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536,
+      1672
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "42": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#a6595f",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "43": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#815f44",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "44": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#9f8f54",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "45": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#495933",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "46": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#a48e84",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "47": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#b7ab9f",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "48": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#939697",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "49": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#877b6f",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "50": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#c58573",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "51": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#b8964f",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "52": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#58b9e7",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "53": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#899aa8",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "54": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#7b7363",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "55": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#a77a6b",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "56": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#635956",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "57": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#97634e",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "58": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#72747f",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "59": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#a06050",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  },
+  "60": {
+    "width": 1536,
+    "height": 1024,
+    "color": "#b8998d",
+    "imageWidths": [
+      480,
+      768,
+      1080,
+      1536
+    ],
+    "gif": {
+      "width": 384,
+      "height": 216
+    },
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 5,
+      "posterWidths": [
+        640,
+        1280
+      ]
+    }
+  }
+}
